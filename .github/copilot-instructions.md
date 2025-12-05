@@ -56,7 +56,7 @@ Key rules:
 - If on main, create a new branch before committing
 - Branch naming: `<type>/<short-description>` (e.g., `feat/add-menu-editor`)
 - Commit changes logically (group related changes)
-- After commits, create/update PR to main branch
+- After commits, push and create/update PR to main branch — **do not wait for confirmation**
 - Use conventional commit messages
 
 ### Commit Granularity Principle
