@@ -1,0 +1,20 @@
+# CODEOWNERS for dashboard
+# See: https://github.com/localstore-platform/specs/blob/v1.1-specs/documentation/codeowners-examples.md
+
+# Global owners
+* @donggiangthai
+
+# Documentation
+/docs/ @donggiangthai
+README.md @donggiangthai
+
+# GitHub configuration
+/.github/ @donggiangthai
+
+# Source code
+/src/ @donggiangthai
+
+# Configuration files
+*.config.js @donggiangthai
+*.config.ts @donggiangthai
+tsconfig.json @donggiangthai
